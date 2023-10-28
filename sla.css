@@ -1,0 +1,21 @@
+.FNAF{
+    background-color:royalblue;
+    border-bottom-right-radius: 15%;
+    border-top-left-radius: 15%;
+    border: 50%;
+    margin-right: 92%;
+    margin-bottom: 60%;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    border-style: dashed ;
+    color: white;
+    border-color: red;
+    
+}
+.FNAF:hover{
+    background-color:dodgerblue;
+}
+
+
+
